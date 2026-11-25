@@ -2,9 +2,7 @@
 
 An interactive sales analytics dashboard built with **React**, **Chart.js** and **Tailwind CSS**. It pulls raw data from three REST endpoints (products, carts and users), joins it into a single analytics model, and presents KPIs, trends and breakdowns that update instantly as you filter.
 
-> Live demo: _add your Vercel/Netlify link here_
->
-> ![Dashboard screenshot](docs/screenshot.png) <!-- add a screenshot -->
+**🔗 Live demo: [sales-analytics-dashboard-plum.vercel.app](https://sales-analytics-dashboard-plum.vercel.app)**
 
 ## Features
 
