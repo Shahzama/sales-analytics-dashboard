@@ -4,6 +4,8 @@ An interactive sales analytics dashboard built with **React**, **Chart.js** and 
 
 **🔗 Live demo: [sales-analytics-dashboard-plum.vercel.app](https://sales-analytics-dashboard-plum.vercel.app)**
 
+![Sales analytics dashboard showing KPI cards, revenue trend, age-group doughnut, category and region charts, and a top products table](docs/screenshot.png)
+
 ## Features
 
 - **Live REST data:** fetches products, carts and users from the [DummyJSON](https://dummyjson.com) API in parallel, then joins them in the client.
